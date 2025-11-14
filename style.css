@@ -1,0 +1,28 @@
+#box1{
+    background-color: lightblue;
+    color: brown;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid blue;
+}
+#box2{
+    background-color: rgb(215, 173, 230);
+    color: rgb(110, 165, 42);
+    font-size: larger;
+    font-family: 'Arial Black', Gadget, sans-serif;
+    border: 2px solid rgb(255, 217, 0);
+}
+#box3{
+    background-color: rgb(173, 230, 201);
+    color: rgb(19, 1, 21);
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid rgb(0, 170, 255);
+}
+#box4{
+    background-color: rgb(230, 173, 175);
+    color: rgb(165, 77, 42);
+    font-size: small;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 2px solid rgb(174, 0, 255);
+}
